@@ -1,10 +1,10 @@
 {
-  "keywordFileContentHash": "9C960700220D2F2A86B279E2F2A7B33F",
+  "keywordFileContentHash": "D2B6C2CC1B770C4ADBE2D980887D5D17",
   "keywordClasses": [
     {
       "name": "my.Params",
       "keywordMethods": []
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }

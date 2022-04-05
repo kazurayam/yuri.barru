@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>callee</name>
+   <name>func2</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>0dd25223-5711-4b5c-a4d4-a9fd86ffb2d1</testCaseGuid>
+   <testCaseGuid>be99c044-130e-4e93-978e-0b3c677848c8</testCaseGuid>
 </TestCaseEntity>
